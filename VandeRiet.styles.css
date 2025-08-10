@@ -143,14 +143,15 @@ footer .icon{
     transition: none; 
     animation: none; 
   }
-}
-/* --------------- BEGIN USER PREFERS REDUCED MOTION QUERY --------------- */
     @-webkit-keyframes icon-animation {
         0% { font-variation-settings: "TIME" 1; }
     }
     @keyframes icon-animation {
         0% { font-variation-settings: "TIME" 1; }
     }
+}
+/* --------------- BEGIN USER PREFERS REDUCED MOTION QUERY --------------- */
+
 /* --------------- END USER PREFERS REDUCED MOTION QUERY --------------- */
 
 
